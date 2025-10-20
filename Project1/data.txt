@@ -1,0 +1,17 @@
+iterations: 298954296 random number chosen: 123 percentage mean average error: 0.00125297 time taken: 123.275
+iterations: 999999999 random number chosen: 123 percentage mean average error: 0.003239 time taken: 12.1903
+iterations: 9999999999 random number chosen: 123 percentage mean average error: 0.0009288 time taken: 153.265
+iterations: 8888888888 random number chosen: 123 percentage mean average error: 0.00125297 time taken: 127.372
+iterations: 999999999 random number chosen: 123 percentage mean average error: 0.003239 time taken: 13.4308
+iterations: 999999999 random number chosen: 1 percentage mean average error: 0.0078468 time taken: 12.1834
+iterations: 999999999 random number chosen: 123 percentage mean average error: 0.003239 time taken: 11.736
+iterations: 8888888888 random number chosen: 123 percentage mean average error: 0.00125297 time taken: 107.622
+iterations: 999999999 random number chosen: 123 percentage mean average error: 0.003239 time taken: 12.6885
+iterations: 99999999999 random number chosen: 123 percentage mean average error: 0.00056725 time taken: 1502.36
+iterations: 999999999 random number chosen: 123 percentage mean average error: 0.003239 time taken: 12.3868
+iterations: 999999999 random number chosen: 123 percentage mean average error: 0.003239 time taken: 11.5651
+iterations: 8888888888 random number chosen: 123 percentage mean average error: 0.00125297 time taken: 123.561
+iterations: 9999999 random number chosen: 1 percentage mean average error: 0.07232 time taken: 0.120055
+iterations: 999999999 random number chosen: 1 percentage mean average error: 0.0078468 time taken: 11.6526
+iterations: 5555555555 random number chosen: 1 percentage mean average error: 0.00227554 time taken: 65.006iterations: 99999999 random number chosen: 123 percentage mean average error: 0.022169 time taken: 7.68703
+iterations: 99999999 random number chosen: 123 percentage mean average error: 0.022169 time taken: 7.91057
